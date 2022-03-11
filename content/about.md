@@ -26,7 +26,3 @@ tags:
 * Encourage local job creation and support the local economy.
 * Develop a community-led plan for the Woolwich area.
 * Oppose all forms of discrimination that affect the health, dignity and life opportunities of local residents.Foster community cohesion and civic pride in Woolwich.
-
-
-
-
