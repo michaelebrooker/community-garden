@@ -1,0 +1,22 @@
+{
+  "name": "speakoutwoolwich",
+  "version": "1.0.0",
+  "description": "Speak Out Woolwich for 2022",
+  "main": "index.html",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michealebrooker/speakoutwoolwich.git"
+  },
+  "author": "Michael Brooker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michealebrooker/speakoutwoolwich/issues"
+  },
+  "homepage": "https://github.com/michealebrooker/speakoutwoolwich#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}

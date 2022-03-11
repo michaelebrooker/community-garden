@@ -1,0 +1,35 @@
+baseURL = "https://speakoutwoolwich.org.uk"
+languageCode = "en-us"
+title = "Speak Out Woolwich - Local residents organising"
+theme = "comday"
+relativeURLS = true
+disqusShortname = "" # Enable comments by entering your Disqus shortname
+googleAnalytics = "" # Enable Google Analytics by entering your tracking id
+copyright = "Copyright 2018-{year} Speak Out Woolwich. All rights reserved."
+
+[frontmatter]
+  date = ["date", "publishDate", "lastmod"]
+  expiryDate = ["expiryDate"]
+  lastmod = [":git", "lastmod", "date", "publishDate"]
+  publishDate = ["publishDate", "date"]
+
+
+[module]
+    [[module.mounts]]
+    source = "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
+    target = "assets/js/bootstrap.bundle.min.js"
+
+
+[params]
+  sausages = 10
+  pre = "<h3>Active"
+  post = "</h3>"
+  
+
+  [menu]
+    [[menu.main]]
+    identifier = "campaigns"
+    name = "Campaigns"
+    url = "/campaigns/"
+    weight = 20
+  
