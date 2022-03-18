@@ -22,11 +22,11 @@ This is the second application for **Meyer Homes** on this site, the previous sc
 
 This revised application presents a scheme where the ‘unacceptably dominating and overbearing’ 27-storey tower in Phase 3 has been reduced to a 15-storey block - shown below - which will obliterate the green space in front Tesco, and dominate **General Gordon Square**.
 
-![alt Meyer Homes 15-storey tower at General Gordon Square](/campaigns/meyer_tower_2021.jpg)
+{{<responsive-img img="/campaigns/meyer_tower_2021.jpg" text="Meyer Homes 15-storey tower projection from General Gordon Square" >}}
 
 *Above: The revised application with a 15-storey tower, and below; the previous application with 27 storeys.*
 
-![alt Meyer Homes original 27-storey tower submitted in 2019](/campaigns/meyer_tower_2019.jpg)
+{{<responsive-img img="/campaigns/meyer_tower_2019.jpg" text="Meyer Homes original 27-storey tower" >}}
 
 # Issues
 ### Height
