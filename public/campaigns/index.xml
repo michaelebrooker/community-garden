@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright 2018-{year} Speak Out Woolwich. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 22 Feb 2022 16:25:42 +0000</lastBuildDate><atom:link href="https://speakoutwoolwich.org.uk/campaigns/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Feb 2022 10:37:36 +0000</lastBuildDate><atom:link href="https://speakoutwoolwich.org.uk/campaigns/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Meyer Homes</title>
       <link>https://speakoutwoolwich.org.uk/campaigns/meyer/</link>
@@ -15,37 +15,6 @@
       
       <guid>https://speakoutwoolwich.org.uk/campaigns/meyer/</guid>
       <description>Meyer Homes revised application submitted in 2021 with a reduced tower height in General Gordon Square.</description>
-    </item>
-    
-    <item>
-      <title>Mcbean</title>
-      <link>https://speakoutwoolwich.org.uk/campaigns/mcbean/</link>
-      <pubDate>Tue, 22 Feb 2022 16:25:42 +0000</pubDate>
-      
-      <guid>https://speakoutwoolwich.org.uk/campaigns/mcbean/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Meyer Homes</title>
-      <link>https://speakoutwoolwich.org.uk/campaigns/oldmeyer/</link>
-      <pubDate>Wed, 16 Feb 2022 10:37:36 +0000</pubDate>
-      
-      <guid>https://speakoutwoolwich.org.uk/campaigns/oldmeyer/</guid>
-      <description>The two towers This is the second application for Meyer Homes on this site, the previous scheme - which included a 27-storey tower in front of the existing Tesco store - was rejected by the Council&amp;rsquo;s Planning Board, and the developer took it to a national appeal. But the inquiry recommended rejection of the scheme and the Minister agreed with the Planning Inspector&amp;rsquo;s report. The report did recommended that there should be building to close off General Gordon Square, but it must be lower than 27 storeys.</description>
-    </item>
-    
-    <item>
-      <title>Meyer</title>
-      <link>https://speakoutwoolwich.org.uk/campaigns/summary/</link>
-      <pubDate>Wed, 29 Dec 2021 10:57:52 +0000</pubDate>
-      
-      <guid>https://speakoutwoolwich.org.uk/campaigns/summary/</guid>
-      <description>Campaigns as of December 2021 for new site
-Woolwich Leisure Centre
-Silvertown Tunnel
-Meyer 2
-Catholic Club</description>
     </item>
     
   </channel>
