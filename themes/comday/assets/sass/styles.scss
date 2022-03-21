@@ -14,6 +14,7 @@ $hccolor: #91b4dd;
 $logolight: #168cdb;
 $logodark: $bncolor;
 $h4color: #555555;
+$cdcolor: #eeeeee;
 
 // sticky footer style
 main > .container {
@@ -22,8 +23,8 @@ main > .container {
 
 // card body styles
 .card-body {
-background-color: $hdcolor;
-color: white;
+background-color: $cdcolor;
+color: $bodycolor;
 }
 
 body {

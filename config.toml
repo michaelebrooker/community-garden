@@ -21,7 +21,6 @@ copyright = "Copyright 2018-{year} Speak Out Woolwich. All rights reserved."
 
 
 [params]
-  sausages = 10
   pre = "<h3>Active"
   post = "</h3>"
   
