@@ -6,7 +6,7 @@ type: page
 description: "Welcome"
 menu: main
 weight: 10
-keywords:
+keywords: "Woolwich, Royal Arsenal, Royal Borough of Greenwich, SE18, Woolwich Ferry, Woolwich Town"
 author: "Mike Brooker"
 tags:
 ---
