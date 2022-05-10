@@ -12,7 +12,7 @@ tags:
 ---
 
 
-{{<responsive-image img="/img/protest.jpg" alt="Protest outside Greenwich Town Hall - 2019">}}
+{{<responsive-image img="/img/protest.jpg" text="Protest outside Greenwich Town Hall - 2019">}}
 
 Protesting at Woolwich Town Hall against the Meyer Homes 27-storey Tower.  
 

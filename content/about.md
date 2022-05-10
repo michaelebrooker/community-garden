@@ -11,7 +11,7 @@ author: "Mike Brooker"
 tags:
 ---
 
-{{<responsive-image img="/img/confsession4Feb19.jpg" alt="Conference on Woolwich Masterplan in 2019">}}
+{{<responsive-image img="/img/confsession4Feb19.jpg" text="Conference on Woolwich Masterplan in 2019">}}
 
 **Above: a break-out group at our Woolwich Masterplan Conference in February 2019.**
 
