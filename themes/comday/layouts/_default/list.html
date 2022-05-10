@@ -7,7 +7,7 @@
                 <div class="card-body">
                     <img class="card-img-top" src="{{ .Page.Params.image }}" alt="{{ .Page.Params.image_alt }}">
                     <p class="card-text">{{ .Page.Params.summary }}</p>
-                    <a href="{{ .URL }}" class="btn btn-outline-primary">More ...</a>
+                    <a href="{{ .Permalink }}" class="btn btn-outline-primary">More ...</a>
             </div>
     </div>
     {{ end }}
