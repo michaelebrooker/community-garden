@@ -1,6 +1,5 @@
-New Speak Out Woowlich site started November 2021 for deployment next year. 
+New Speak Out Woowlich site started November 2021 and deployed in 2022. 
 
-Added 
 Menu structure is a mess, with main menu defined in config.toml, but with only campaigns defined. 
 range .Site.Menus.main is called, and hasChildren for a dropdown that doesn't function. 
 The campaigns menu items shows not dropdown menus
