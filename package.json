@@ -1,21 +1,21 @@
 {
-  "name": "speakoutwoolwich",
+  "name": "stjohns",
   "version": "1.0.0",
-  "description": "Speak Out Woolwich for 2022",
+  "description": "St John's Community Garden,
   "main": "index.html",
   "scripts": {
     "test": "none"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/michealebrooker/speakoutwoolwich.git"
+    "url": "git+https://github.com/michealebrooker/stjohns.git"
   },
   "author": "Michael Brooker",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/michealebrooker/speakoutwoolwich/issues"
+    "url": "https://github.com/michealebrooker/stjohns/issues"
   },
-  "homepage": "https://github.com/michealebrooker/speakoutwoolwich#readme",
+  "homepage": "https://github.com/michealebrooker/stjohns/readme",
   "dependencies": {
     "bootstrap": "^5.1.3"
   }

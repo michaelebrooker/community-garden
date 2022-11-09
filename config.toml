@@ -1,11 +1,11 @@
-baseURL = "https://speakoutwoolwich.org.uk"
+baseURL = "https://localhost:1313"
 languageCode = "en-us"
-title = "Speak Out Woolwich - Local residents organising"
-theme = "comday"
+title = "St John's Community Garden"
+theme = "stjohn"
 relativeURLS = true
 disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
-copyright = "Copyright 2018-{year} Speak Out Woolwich. All rights reserved."
+copyright = "Copyright 2021-{year} St John's Garden Community. All rights reserved."
 
 [frontmatter]
   date = ["date", "publishDate", "lastmod"]
