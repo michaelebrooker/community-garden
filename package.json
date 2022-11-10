@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/michealebrooker/stjohns.git"
+    "url": "git+https://github.com/michaelebrooker/stjohns.git"
   },
   "author": "Michael Brooker",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/michealebrooker/stjohns/issues"
+    "url": "https://github.com/michaelebrooker/stjohns/issues"
   },
-  "homepage": "https://github.com/michealebrooker/stjohns/readme",
+  "homepage": "https://github.com/michaelebrooker/stjohns/readme",
   "dependencies": {
     "bootstrap": "^5.1.3"
   }
