@@ -1,20 +1,21 @@
-// custom styles for Speak Out Woolwich 2022
+// custom styles for St John's Community Garden 2023
 // Author: Mike Brooker
-// Revision: 2  01/12/2021
+// Revision: 3  01/03/2023
 
 
-// using Bootstrap5 Beta
+// using Bootstrap 5.3 April 2023
 
 $bgcolor: white;
-$hdcolor: #222222;
-$hddcolor: #444444; 
-$bncolor: rgb(27, 105, 165);
-$bodycolor: rgb(3, 38, 58);
-$hccolor: #91b4dd;
-$logolight: #168cdb;
+$hdcolor: #222222; // BLACK
+$hddcolor: #444444; // DARK GREY
+$bncolor: #033a1f; // DARK GREEN
+$bodycolor: #033A1F; //
+$hccolor: #91b4dd;//
+$logolight: #247a47;// 
 $logodark: $bncolor;
-$h4color: #555555;
-$cdcolor: #eeeeee;
+$h4color: #555555;// MID GREY
+$cdcolor: #eeeeee;// VERY LIGHT GREY
+$border_color: #blue; // 
 
 // sticky footer style
 main > .container {
@@ -36,6 +37,7 @@ body {
 
 h1 {
   font-family: "Arial", sans-serif;
+
   font-style: normal;
   font-weight: bold;
   color: $hddcolor; 
@@ -71,7 +73,7 @@ h3 {
 }
 
 .footerBrand {
-  color: $hddcolor;
+  color: $logolight;
   font-size: 1rem;
 }
 
@@ -80,7 +82,7 @@ h3 {
   font-size: x-large;
 }
 blockquote {
-  border: 1px solid #b3b3b3;
+  border: 1px solid $border_color;
   border-left: 10px solid $hdcolor;
   border-radius: 0px;
   background: $hddcolor;
@@ -103,7 +105,7 @@ section {
     margin: auto;
     padding-top: 10px;
 }
-div#sectionleft {
+divsectionleft {
     float: left;
     margin-right: 10px;
 }

@@ -12,14 +12,21 @@ $RECYCLE.BIN/
 .DS_Store
 
 # Other
+
 # VSCode
 *.code-workspace
+
 # Hugo
 .hugo_build.lock
-*content
+/resources/_gen
+
+# *content
 
 # directory for resources only used locally, such as artwork or documentation
 /utility
+
+# ignore node modules
+/node_modules
 
 # ignore json files
 *.json

@@ -6,10 +6,12 @@
     <meta name="author" content="{{- .Site.Author -}}"/>
     <meta name="dc.relation" content="{{ .Site.BaseURL }}" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="theme-color" content="#1A94D2" />
+    <meta name="theme-color" content="#3dad7a" />
+    <!-- call in google fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap" rel="stylesheet">
+    <!-- processing sass to css -->
     {{- $options := (dict "targetPath" "css/style.css" "outputStyle" "compressed") -}}
     {{- $style := resources.Get "sass/main.scss" | toCSS  $options | minify -}}
     <link rel="stylesheet" href="{{ $style.RelPermalink }}" media="screen">

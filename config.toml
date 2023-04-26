@@ -1,11 +1,11 @@
-baseURL = "https://localhost:1313"
+baseURL = "https://stcg.ntlify.app"
 languageCode = "en-us"
 title = "St John's Community Garden"
 theme = "stjohn"
 relativeURLS = true
 disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
-copyright = "Copyright 2021-{year} St John's Garden Community. All rights reserved."
+copyright = "St John's Walton - Community Garden {year}."
 
 [frontmatter]
   date = ["date", "publishDate", "lastmod"]
@@ -24,11 +24,28 @@ copyright = "Copyright 2021-{year} St John's Garden Community. All rights reserv
   pre = "<h3>Active"
   post = "</h3>"
   
-
   [menu]
     [[menu.main]]
-    identifier = "campaigns"
-    name = "Campaigns"
-    url = "/campaigns/"
+    identifier = "works"
+    name = "Works"
+    url = "/works/"
     weight = 20
- 
+    
+    [[menu.main]]
+    identifier = "plants"
+    name = "Plants"
+    url = "/plants/"
+    weight = 30
+
+    [[menu.main]]
+    identifier = "animals"
+    name = "Animals"
+    url = "/animals/"
+    weight = 40
+
+    [[menu.main]]
+    identifier = "old"
+    name = "Old"
+    url = "/old/"
+    weight = 40
+

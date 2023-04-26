@@ -1,6 +1,6 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+title: "B"
+date: 2023-04-25T17:02:09+01:00
 draft: true
 type: page
 weight: 400
@@ -10,8 +10,8 @@ slug:
 keywords:
 author: 
 tags: 
-summary:
+summary: plants test b
 image:
 image-alt:
-intro:
+intro: plants test b
 ---
