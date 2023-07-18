@@ -11,11 +11,12 @@ $hddcolor: #444444; // DARK GREY
 $bncolor: #033a1f; // DARK GREEN
 $bodycolor: #033A1F; //
 $hccolor: #91b4dd;//
-$logolight: #247a47;// 
+$logolight: white;// 
 $logodark: $bncolor;
 $h4color: #555555;// MID GREY
 $cdcolor: #eeeeee;// VERY LIGHT GREY
 $border_color: #blue; // 
+$header: #254B1C; // for the header panel
 
 // sticky footer style
 main > .container {
@@ -61,14 +62,19 @@ h3 {
     font-weight: normal;
     color:$hdcolor; 
   }
+
+
+.header {
+  background: $header;
+}
 // splash image
 .bigBrandDark {
-  font-family: "Gill Sans", sans-serif;
-  color: $logodark;
+  font-family: 'Titillium Web', sans-serif;
+  color: $logolight;
 }
 
 .bigBrandLight {
-  font-family: 'Nanum Pen Script', cursive;
+  font-family: 'Titillium Web', sans-serif;
   color: $logolight;
 }
 
@@ -78,7 +84,7 @@ h3 {
 }
 
 .nav-link {
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: x-large;
 }
 blockquote {

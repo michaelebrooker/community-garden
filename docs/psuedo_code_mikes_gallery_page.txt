@@ -1,0 +1,21 @@
+
+In this new template for St John's Community Garden, I could have used the Gallery which uses bootstrap classes to put up a slideshow of images from a directory, but I just want the pictures to list into the page one after the other. 
+
+So we can range images by: 
+
+{{ range resources.Match "images/gallery/*" }}
+  <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+{{ end }}
+
+Here we manually set the directory where the images are, but actually, I want the page to be a date in the format of 22May23 and for a directory to have the same name. 
+
+I think it must be possible to set a variable to the value of the page name and then pass that to the 
+range resources $imgdir"/*"
+
+Which in the idea above would become 
+
+$imgdir := .Permalink 
+
+range resources $imgdir"/*/
+
+I think
