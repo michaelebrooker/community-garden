@@ -4,7 +4,7 @@ date: 2023-05-25T15:08:10+01:00
 draft: true
 type: gallery
 weight: 400
-description: Saturday work party clearing brambles with rain showers.
+description: Saturday work party clearing brambles in between rain showers.
 menu:
 slug:
 keywords:

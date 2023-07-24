@@ -5,7 +5,7 @@ theme = "stjohn"
 relativeURLS = true
 disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
-copyright = "St John's Walton - Community Garden {year}."
+copyright = "Community Garden - St John's Walton {year}."
 
 [frontmatter]
   date = ["date", "publishDate", "lastmod"]
@@ -32,20 +32,26 @@ copyright = "St John's Walton - Community Garden {year}."
     weight = 20
     
     [[menu.main]]
+    identifier = "design"
+    name = "Design"
+    url = "/design/"
+    weight = 60
+
+    [[menu.main]]
     identifier = "plants"
     name = "Plants"
     url = "/plants/"
-    weight = 30
+    weight = 40
 
     [[menu.main]]
     identifier = "wildlife"
     name = "Wildlife"
     url = "/wildlife"
-    weight = 40
+    weight = 50
 
     [[menu.main]]
     identifier = "precedents"
     name = "Precedents"
     url = "/precedents"
-    weight = 50
+    weight = 60
 
