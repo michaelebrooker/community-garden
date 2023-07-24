@@ -3,7 +3,8 @@
       <div class="row row-cols-1 gx-8">
         <div class="col">
       	<!-- content start -->
-      	<h1>{{ .Description }}</h1>
+        <h4>{{ humanize .Date.Day }} of {{ .Date.Format "January 2006"}}</h4>
+      	<p>{{ .Description }}</p>
       	{{ .Content }}
         <section>
           <div class="container">

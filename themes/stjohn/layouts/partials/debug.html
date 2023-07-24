@@ -1,16 +1,19 @@
-<div class="container">
+
 <hr />
-{{ printf "%#v" .RegularPages }}
+<div class="container border">
+<h3>Debugging</h3>
 <hr />
-{{ printf "%#v" .Permalink }}
+    <p>{{ printf "%#v" .RegularPages }}</p>
 <hr />
-</div>
+    <p>{{ printf "%#v" .Permalink }}</p>
+    
 <hr />
-<div class="container">
     <p>File: {{ .File }}</p>
     <p>Permalink {{ .Permalink }}
     <p>Template: {{ .Type }} </p>
     <p>Kind: {{ .Kind }}</p>
+    
+<hr />
     <p>IsHome?: {{ .IsHome }}</p>
     <p>IsNode: {{ .IsNode }}</p>
     <p>IsPage: {{ .IsPage }}</p>
@@ -20,9 +23,11 @@
     <p>Parent: {{ .Parent }}</p>
         <li>{{ .Pages }} </li>
 
-    <h3>Images test</h3>
+    <h4>Images test</h4>
 
 
-    <img src="{{ .RelPermalink }}" alt="" class="img-fluid pb-3">
+    <img src="{{ .RelPermalink }}" alt="Test image" class="img-fluid pb-3">
 </div>
+<br />
+<br />
 

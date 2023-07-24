@@ -43,3 +43,9 @@ copyright = "St John's Walton - Community Garden {year}."
     url = "/wildlife"
     weight = 40
 
+    [[menu.main]]
+    identifier = "precedents"
+    name = "Precedents"
+    url = "/precedents"
+    weight = 50
+
