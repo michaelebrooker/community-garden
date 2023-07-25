@@ -11,6 +11,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
     <!-- processing sass to css -->
     {{- $options := (dict "targetPath" "css/style.css" "outputStyle" "compressed") -}}
     {{- $style := resources.Get "sass/main.scss" | toCSS  $options | minify -}}
