@@ -1,4 +1,4 @@
-baseURL = "https://stcg.ntlify.app"
+baseURL = "https://stcg.netlify.app"
 languageCode = "en-us"
 title = "St John's Community Garden"
 theme = "stjohn"
@@ -30,12 +30,6 @@ copyright = "Community Garden - at St John's Walton {year}."
     name = "Works"
     url = "/works/"
     weight = 20
-    
-    [[menu.main]]
-    identifier = "design"
-    name = "Design"
-    url = "/design/"
-    weight = 60
 
     [[menu.main]]
     identifier = "plants"
