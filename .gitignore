@@ -24,6 +24,9 @@ $RECYCLE.BIN/
 
 # directory for resources only used locally, such as artwork or documentation
 /utility
+/original_copy
+/public
+/docs
 
 # ignore node modules
 /node_modules
