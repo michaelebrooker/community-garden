@@ -12,7 +12,7 @@ $bncolor: #033a1f; // DARK GREEN
 $bodycolor: #033A1F; //
 $hccolor: #91b4dd;//
 $logolight: white;// 
-$logodark: $bncolor;
+$logodark: #999966;
 $h4color: #555555;// MID GREY
 $cdcolor: #eeeeee;// VERY LIGHT GREY
 $border_color: #blue; // 
@@ -68,9 +68,9 @@ h3 {
   background: $header;
 }
 // splash image
-.bigBrandDark {
-  font-family: 'Titillium Web', sans-serif;
-  color: $logolight;
+.bigBrandDark { 
+  font-family: 'Titillium Web', sans-serif; 
+  color: $logodark;
 }
 
 .bigBrandLight {

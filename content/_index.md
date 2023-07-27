@@ -1,7 +1,7 @@
 ---
 title: "Home"
 date: 2021-11-29T10:45:56Z
-draft: false
+draft: 
 type: page
 description: "Welcome"
 menu: main
