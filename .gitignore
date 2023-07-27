@@ -33,3 +33,6 @@ $RECYCLE.BIN/
 
 # ignore json files
 *.json
+
+# Local Netlify folder
+.netlify
