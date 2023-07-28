@@ -1,6 +1,6 @@
 ---
 title: "Home"
-date: 2021-11-29T10:45:56Z
+date: 2021-11-29T10:45:56+01:00
 draft: 
 type: page
 description: "Welcome"

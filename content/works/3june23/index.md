@@ -10,7 +10,7 @@ slug:
 keywords:
 author: 
 tags: 
-summary: Draingage 
+summary: Drainage 
 image: DSCF2150.JPG
 image-alt:
 intro: 
