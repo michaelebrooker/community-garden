@@ -8,7 +8,7 @@
        <div class="card mt-2">
          <div class="card-body">
             <img class="card-img-top" src="{{ .Page.Params.image }}" alt="{{ .Page.Params.image_alt }}">
-          <p class="card-text">{{ .Date | time.Format ":date_long" }}<br />
+          <p class="card-text">{{ .Date | time.Format ":date_full" }}<br />
           {{ .Page.Params.summary }}</p>
           <a href="{{ .Permalink }}" class="btn btn-outline-primary">View gallery</a>
          </div>
