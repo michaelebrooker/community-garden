@@ -1,0 +1,17 @@
+---
+title: "23july23"
+date: 2023-07-23T10:07:46+01:00
+draft: 
+type: gallery
+weight: 400
+description: July rains have filled the ponds, and a section of the path is also under water.
+menu:
+slug:
+keywords:
+author: 
+tags: 
+summary: 
+image: 23july23_small.jpg
+image-alt:
+intro:
+---

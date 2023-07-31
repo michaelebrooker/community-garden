@@ -9,7 +9,6 @@ weight: 10
 keywords: "'St John's Walton'"
 author: "Mike Brooker"
 tags:
-
 ---
 
 {{<responsive-img img="/img/panorama.jpg" text="The field" >}}

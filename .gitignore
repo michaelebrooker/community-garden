@@ -27,6 +27,7 @@ $RECYCLE.BIN/
 /original_copy
 /public
 /docs
+/themes/stjohn/layouts/junk
 
 # ignore node modules
 /node_modules
