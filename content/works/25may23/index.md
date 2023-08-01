@@ -1,5 +1,5 @@
 ---
-title: "25may23"
+title: "25th May 2023"
 date: 2023-05-25T15:08:10+01:00
 draft: 
 type: gallery
@@ -8,7 +8,7 @@ description: Saturday work party clearing brambles in between rain showers.
 menu:
 slug:
 keywords:
-author: 
+author: Mike Brooker
 tags: 
 summary: Work party 
 image: 25may23_small.JPG

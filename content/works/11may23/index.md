@@ -1,5 +1,5 @@
 ---
-title: "11may23"
+title: "11th May 2023"
 date: 2023-05-11T16:07:37+01:00
 draft: 
 type: gallery
@@ -8,7 +8,7 @@ description: The site after quite a bit of rain had a lot of standing water towa
 menu:
 slug:
 keywords:
-author: 
+author: Mike Brooker
 tags: 
 summary: Site survey
 image: 11may23_small.JPG

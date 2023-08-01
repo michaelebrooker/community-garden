@@ -1,10 +1,9 @@
-<footer class="footer mt-auto py-3 bg-light">
+<footer class="footer mt-auto py-3">
     <div class="container">
       
-        <span class="text-muted">{{ replace .Site.Copyright "{year}" now.Year }}</span>
+        {{ replace .Site.Copyright "{year}" now.Year }}
 
     </div>
-    
 
   {{- $bootstrap := resources.Get "js/bootstrap.bundle.min.js" -}}
   {{- $js := slice $bootstrap | resources.Concat "js/bundle.js" | resources.Minify -}}

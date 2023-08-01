@@ -7,7 +7,7 @@ description: "Welcome"
 menu: main
 weight: 10
 keywords: "'St John's Walton'"
-author: "Mike Brooker"
+author: Mike Brooker
 tags:
 ---
 

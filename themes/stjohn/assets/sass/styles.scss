@@ -11,12 +11,13 @@ $hddcolor: #444444; // DARK GREY
 $bncolor: #033a1f; // DARK GREEN
 $bodycolor: #033A1F; //
 $hccolor: #91b4dd;//
-$logolight: white;// 
+$logolight: #ffffff;// 
 $logodark: #999966;
 $h4color: #555555;// MID GREY
 $cdcolor: #eeeeee;// VERY LIGHT GREY
 $border_color: #blue; // 
-$header: #254B1C; // for the header panel
+$header: #254B1C; // for the header 
+$footertext: #cccccc; // for the footer text
 
 // sticky footer style
 main > .container {
@@ -67,14 +68,22 @@ h3 {
 .header {
   background: $header;
 }
-// splash image
+
+.footer {
+  background: $header;
+  color: #e8e8e8;
+}
+
+// splash image 
 .bigBrandDark { 
   font-family: 'Titillium Web', sans-serif; 
+  font-size: x-large;
   color: $logodark;
 }
 
 .bigBrandLight {
   font-family: 'Titillium Web', sans-serif;
+  font-size: x-large;
   color: $logolight;
 }
 
@@ -87,6 +96,7 @@ h3 {
   font-family: 'Titillium Web', sans-serif;
   font-size: x-large;
 }
+
 blockquote {
   border: 1px solid $border_color;
   border-left: 10px solid $hdcolor;
@@ -97,8 +107,6 @@ blockquote {
   margin: 10px;
   padding: 10px 20px;
   }
-
-
 
 .jumbotron {
     padding: 4rem 2rem;
@@ -111,10 +119,13 @@ section {
     margin: auto;
     padding-top: 10px;
 }
-divsectionleft {
+
+div#sectionleft {
     float: left;
     margin-right: 10px;
+
 }
+
 div#sectionright {
     margin: auto;
 }

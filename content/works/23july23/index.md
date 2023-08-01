@@ -8,7 +8,7 @@ description: July rains have filled the ponds, and a section of the path is also
 menu:
 slug:
 keywords:
-author: 
+author: Mike Brooker
 tags: 
 summary: 
 image: 23july23_small.jpg

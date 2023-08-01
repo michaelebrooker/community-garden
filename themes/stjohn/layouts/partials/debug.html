@@ -14,20 +14,16 @@
     <p>Kind: {{ .Kind }}</p>
     
 <hr />
+    <h3>Home, node and page testing</h3>
     <p>IsHome?: {{ .IsHome }}</p>
     <p>IsNode: {{ .IsNode }}</p>
     <p>IsPage: {{ .IsPage }}</p>
     <hr>
+    <h3>Section, current section, and parent testing</h3>
     <p>IsSection: {{ .IsSection }}</p>
     <p>CurrentSection: {{ .CurrentSection }}</p>
     <p>Parent: {{ .Parent }}</p>
         <li>{{ .Pages }} </li>
 
-    <h4>Images test</h4>
-
-
-    <img src="{{ .RelPermalink }}" alt="Test image" class="img-fluid pb-3">
+<hr />
 </div>
-<br />
-<br />
-
