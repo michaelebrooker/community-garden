@@ -1,5 +1,5 @@
 ---
-title: "Works 13th June 2023"
+title: "13th June 2023"
 date: 2023-06-13T14:51:32+01:00
 draft: 
 type: gallery
