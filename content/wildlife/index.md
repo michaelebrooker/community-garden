@@ -4,7 +4,7 @@ date: 2023-07-18T16:01:35+01:00
 draft: 
 type: gallery
 weight: 400
-description: An orange-tipped butterlfy - Anthocharis cardamines - spotted in April and possibly a Ringlet butterfly seen in July.  
+description: An orange-tipped butterfly - Anthocharis cardamines - spotted in April and a Ringlet butterfly seen in July.  
 menu:
 slug:
 keywords:
