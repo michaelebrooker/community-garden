@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on St John&#39;s Community Garden</title>
-    <link>https://stcg.ntlify.app/categories/</link>
+    <link>https://stcg.netlify.app/categories/</link>
     <description>Recent content in Categories on St John&#39;s Community Garden</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Community Garden - at St John&#39;s Walton {year}.</copyright><atom:link href="https://stcg.ntlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Community Garden - at St John&#39;s Walton {year}.</copyright><atom:link href="https://stcg.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

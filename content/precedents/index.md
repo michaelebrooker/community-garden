@@ -17,4 +17,4 @@ intro:
 ---
 
 # Precedent images
-Some ideas, including a few from Tatton Park Flower Show, where wildlife is now a big theme and naturalistic planting is very prevalent.  
+These are images from other community projects as well as a few from Tatton Park Flower Show, where wildlife is now a big theme and naturalistic planting is very prevalent.  
