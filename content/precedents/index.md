@@ -1,6 +1,6 @@
 ---
 title: "Precedents"
-date: 2023-07-24T10:13:48+01:00
+date: 2023-08-24T10:13:48+01:00
 draft: 
 type: gallery
 weight: 400

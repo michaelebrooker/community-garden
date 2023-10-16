@@ -4,14 +4,16 @@ date: {{ .Date }}
 draft: 
 type: page
 weight: 400
-description: 
+description: Description 
 menu:
 slug:
 keywords:
-author: 
+author: Mike Brooker 
 tags: 
 summary: 
-image:
-image-alt:
+image: test.jpg
+image-alt: string here
 intro:
 ---
+
+# Heading

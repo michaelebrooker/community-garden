@@ -1,6 +1,6 @@
 ---
-title: "Plants"
-date: 2023-05-22T17:03:57+01:00
+title: "{{ replace .Name "-" " " | title }}"
+date: {{ .Date }}
 draft: true
 type: page
 weight: 400
