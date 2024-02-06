@@ -1,5 +1,5 @@
-Community Garden at St John's Walton. 
+Community Garden at St John's Walton, Chesterfield. 
 
-This site is to support a project to turn a small field into a garden into a wild and wonderful place of naturalistic planting to encourage wildlife in all it's glory but also allowing for fun and contemplation with nature.  
+This website is to document and support a community garden project next to St John's Walton, Chesterfield. 
 
 The project started in March April 2023

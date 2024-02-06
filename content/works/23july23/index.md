@@ -6,7 +6,7 @@ type: gallery
 weight: 400
 description: July rains have filled the ponds, and a section of the path is also under water.
 menu:
-slug:
+slug: 7oct23
 keywords:
 author: Mike Brooker
 tags: 
