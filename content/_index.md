@@ -26,11 +26,15 @@ In the last year we have:
 
 - Planters were constructed on site by volunteers and installed by one of our local farmers. 
 
+- Composting bins constructed and installed
+
 - A gate was installed to the car park to make access easier. 
 
-- Much hard work was done digging out and clearing brambles by community volunteers. 
+- Much hard work was done digging out and clearing brambles by community volunteers, and hedges were trimmed and overgrowth of weeds cleared.  
 
 - The planned grass meadow was rotavated by lack of a dry period did not allow seeding with the grass meadow seed we had purchased. 
+
+- Spring Daffodil bulbs were planted alongside Walton Back Lane.
 
 We are grateful to everyone who has come and helped and particulary to the two local farmers who have provided their equipment - diggers and rotavators - as well as expertise, and without which we could not have made such good progress.  
 
