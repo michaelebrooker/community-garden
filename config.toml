@@ -1,11 +1,11 @@
 baseURL = "https://stcg.netlify.app"
 languageCode = "en-us"
-title = "St John's Community Garden"
+title = "Acorn Community Garden"
 theme = "stjohn"
 relativeURLS = true
 disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
-copyright = "Community Garden - at St John's Walton {year}."
+copyright = "Acorn Community Garden - St John's Walton {year}."
 
 [frontmatter]
   date = ["date", "publishDate", "lastmod"]

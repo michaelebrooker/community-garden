@@ -14,7 +14,9 @@ tags:
 {{<responsive-img img="/img/DSCF2161.JPG" text="The field" >}}
 
 
-**The Community Garden at St John's Walton, Chesterfield, is a project to turn a small plot which has been mostly brambles, and sometimes rather soggy, into a beautiful place to discover and encourage nature, and to grow fruit & vegetables as well as have fun and enjoy peace as part of the local community in Walton.**
+**Acorn Community Garden, Walton, Chesterfield, is a project to turn a small plot which has been mostly brambles, and sometimes rather soggy, into a beautiful place to discover and encourage nature, and to grow fruit & vegetables as well as have fun and enjoy peace as part of the local community in Walton.**
+
+The Project has been running for more than two years. 
 
 The project started Spring 2023. The year proved to be very rainy and the frequent deluges have slowed progress but also filled the pond easily.  
 
