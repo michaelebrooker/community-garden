@@ -28,9 +28,6 @@ tags:
 {{<responsive-img img="/images/firepit_finishing2024.jpg" text="Garden party august 2024" >}}
 ***Completing the fire pit***
 
-{{<responsive-img img="/img/sketchMar23.png" text="Preliminary sketch" >}}
-***Above simple sketch plan of the garden***
-
 The project started Spring 2023. That year proved to be very rainy and the frequent deluges slowed progress but also filled the pond easily.  
 
 ### Progress in 2024
@@ -55,8 +52,5 @@ Last spring we have been able to plant trees which were provided by a grant, and
 
 We are grateful to everyone who has come and helped and particulary to the two local farmers who have provided their equipment - diggers and rotavators - as well as expertise, and without which we could not have made such good progress.  
 
-**Below: Simple sketch plan of the garden**
-
 {{<responsive-img img="/img/sketchMar23.png" text="Preliminary sketch" >}}
-
-
+***Above simple sketch plan of the garden***
