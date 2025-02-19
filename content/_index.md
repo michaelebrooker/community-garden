@@ -54,4 +54,4 @@ Last spring we have been able to plant trees which were provided by a grant, and
 We are grateful to everyone who has come and helped and particulary to the two local farmers who have provided their equipment - diggers and rotavators - as well as expertise, and without which we could not have made such good progress.  
 
 {{<responsive-img img="/img/sketchMar23.png" text="Preliminary sketch" >}}
-***Above simple sketch plan of the garden***
+***Above: simple sketch plan of the garden***
