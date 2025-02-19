@@ -35,10 +35,11 @@ The project started Spring 2023. That year proved to be very rainy and the frequ
 Last spring we have been able to plant trees which were provided by a grant, and they include fruit and nut species, as well as willows for the bank alongside the bog garden and pond. 
   
  - Tree planting
- - Water collection system
+ - Rotovate and sow grass seed for main meadow - for lawn events
+ - Water collection system set up
  - Fire pit build
- - First harvest
  - Labyrinth completed
+ - First harvest of fruit and veg
 
 ### Progress in 2023
 
