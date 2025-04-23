@@ -4,7 +4,7 @@
     <title>Tags on Acorn Community Garden</title>
     <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Acorn Community Garden</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Acorn Community Garden - St John&#39;s Walton {year}.</copyright>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
